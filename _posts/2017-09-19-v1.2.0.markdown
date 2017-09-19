@@ -9,4 +9,4 @@ categories: mattermost update
 
 Mattermost v1.2.0 is now available. [Install][install] it now!
 
-[install]: {{ '/apps/manifest.plist' | prepend site.baseurl | prepend: site.url }}
+[install]: {{ '/apps/manifest.plist' | prepend: site.baseurl | prepend: site.url }}
