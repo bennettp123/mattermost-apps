@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Mattermost v1.2.0-tas.0"
+date:   2017-09-19 11:30:00 -0800
+categories: mattermost update
+---
+
+# Mattermost v1.2.0-tas.0
+
+Mattermost v1.2.0 is now available. [Install][install] it now!
+
+[install]: {{ '/apps/manifest.plist' | prepend site.baseurl | prepend: site.url }}
