@@ -10,7 +10,7 @@ title: Custom Mattermost Apps
 description: > # this means to ignore newlines until "baseurl:"
   Custom mattermost apps with custom keys.
 baseurl: "/mattermost-apps" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+url: "https://bennettp123.github.io/" # the base hostname & protocol for your site
 twitter_username: bennettp123
 github_username:  bennettp123
 
